@@ -1,4 +1,4 @@
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=PatriickDe-v&color=yellow" alt="Profile views" /> </p>
+
 
 ### Oi! Eu sou o Patrick! 🤙
 
