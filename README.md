@@ -4,7 +4,7 @@
 
 - 🔥 Desenvolvedor Back End | Python | Django |
 - ⚡ Um desenvolvedor em desenvolvimento.
-- 📌 Aqui você pode ver minha evolução nos estudos. 
+- 📌 Aqui você pode acompanhar minha evolução nos estudos. 
 
 <br><br>
 
