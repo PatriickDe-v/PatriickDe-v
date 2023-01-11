@@ -1,7 +1,7 @@
 
 ### Oi! Eu sou o Patrick! 🤙
 
-- 🔥 Desenvolvedor Back End | Python | Django |
+- 🔥 Desenvolvedor Back End | Python | Flask |
 - ⚡ Um desenvolvedor em desenvolvimento.
 - 📌 Aqui você pode acompanhar minha evolução nos estudos. 
 
@@ -22,5 +22,6 @@
 <img widht="30" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
 <img widht="30" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" /> 
 <img widht="30" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
-<img widht="30" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg">             
+<img widht="30" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original-wordmark.svg"/>
+                    
 </div>
