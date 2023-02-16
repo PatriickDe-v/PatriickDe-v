@@ -1,7 +1,7 @@
 
 ### Oi! Eu sou o Patrick! 🤙
 
-- 🔥 Desenvolvedor Back End | Java | SpringBoot |
+- 🔥 Desenvolvedor Back End | Python | Flask |
 - ⚡ Um desenvolvedor em desenvolvimento.
 - 📌 Aqui você pode acompanhar minha evolução nos estudos. 
 
