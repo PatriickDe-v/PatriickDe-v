@@ -1,7 +1,7 @@
 
 ### Oi! Eu sou o Patrick! 🤙
 
-- 🔥 Desenvolvedor Python | Node | React
+- 🔥 Desenvolvedor | Node | React
 - ⚡ Um desenvolvedor em desenvolvimento.
 - 📌 Aqui você pode acompanhar minha evolução nos estudos. 
 
@@ -15,7 +15,6 @@
 
 ## 🛠 &nbsp;Tech Stack
 <div>
-<img widht="30" height="40 "src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/> 
 <img widht="30" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
 <img widht="30" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
 <img widht="30" height="40"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
