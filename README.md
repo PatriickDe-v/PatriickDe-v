@@ -2,7 +2,7 @@
  - Hi, I'm Patrick. I'm from Brasil (🇧🇷).
 - I'm interesed in playing video games 🎮, watching series 🎦 and a listen music 🎵.
 - I usually read books of fantasy, personal development and technology. 📖
-- I'm currently learning Inglish, SQL, Python.
+- I'm currently learning English, JavaScript, React, SQL and Python.
 <br><br>
 
 
