@@ -1,12 +1,27 @@
+<div align="center">
+  <h1>Hi 👋, I'am Patrick Strassburger </h1>
+</div>
+<div align="center">
+ <h3>JavaScript Developer | Back-end Developer | Front-end Developer</h3>
+</div>
 
- - Hi, I'm Patrick. I'm from Brasil (🇧🇷).
-- I'm interesed in playing video games 🎮, watching series 🎦 and a listen music 🎵.
-- I usually read books of fantasy, personal development and technology. 📖
-- I'm currently learning English, JavaScript, React, SQL.
 <br><br>
+<p align="center">
+    <a href="https://github.com/ryo-ma/github-profile-trophy">
+        <img src="https://github-profile-trophy.vercel.app/?username=PatriickDe-v&row=2&column=3&margin-w=15&margin-h=15"" alt="patrick" />
+    </a>
+</p>
+
+- 💻 I'm currently developing projects in JavaScript. <br>
+- 📫 You can reach me by **patriick.dev@gmail.com**
 
 
-[<img heigth="45" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" />](https://www.linkedin.com/in/patrick-strassburger/)
+<h3>Connect with me: </h3>
+<p align="left">
+    <a href="https://www.linkedin.com/in/patrick-strassburger/" target="blank">
+        <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg"  alt="patrick" heigth="30" width="40"/>        
+    </a>
+</p>
          
 ![Patrick GitHub stats](https://github-readme-stats.vercel.app/api?username=PatriickDe-v&show_icons=true&theme=radical)
 <img width="530em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PatriickDe-v&layout=compact&theme=vision-friendly-dark" alt="maykbrito's most languages"/>
