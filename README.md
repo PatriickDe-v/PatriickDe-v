@@ -10,8 +10,8 @@
     <a href="https://github.com/ryo-ma/github-profile-trophy">
         <img src="https://github-profile-trophy.vercel.app/?username=PatriickDe-v&row=2&column=3&margin-w=15&margin-h=15"" alt="patrick" />
     </a>
-</p>
-<br>
+</p> <br>
+
 - 💻 I'm currently developing **projects in JavaScript.** <br>
 - 📫 You can reach me by **patriick.dev@gmail.com**
 
