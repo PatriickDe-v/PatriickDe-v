@@ -7,7 +7,7 @@
 
 <br><br>
 <p align="center">
-    <a href="https://github.com/ryo-ma/github-profile-trophy target=blank">
+    <a href="https://github.com/ryo-ma/github-profile-trophy">
         <img src="https://github-profile-trophy.vercel.app/?username=PatriickDe-v&row=2&column=3&margin-w=15&margin-h=15"" alt="patrick" />
     </a>
 </p> <br>
@@ -18,7 +18,7 @@
 
 <h3>Connect with me: </h3>
 <p align="left">
-    <a href="https://www.linkedin.com/in/patrick-strassburger/" target="blank">
+    <a href="https://www.linkedin.com/in/patrick-strassburger/" target=blank">
         <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg"  alt="patrick" heigth="30" width="40"/>        
     </a>
 </p>
