@@ -11,8 +11,8 @@
         <img src="https://github-profile-trophy.vercel.app/?username=PatriickDe-v&row=2&column=3&margin-w=15&margin-h=15"" alt="patrick" />
     </a>
 </p>
-
-- 💻 I'm currently developing projects in JavaScript. <br>
+<br>
+- 💻 I'm currently developing **projects in JavaScript.** <br>
 - 📫 You can reach me by **patriick.dev@gmail.com**
 
 
